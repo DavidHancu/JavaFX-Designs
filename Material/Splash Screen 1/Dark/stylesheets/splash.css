@@ -1,0 +1,10 @@
+#splashBackground {
+   -fx-background-color: linear-gradient(to top, #1d252d, #273747);
+}
+.progress-bar > .bar, .progress-bar > .track {
+    -fx-background-insets: 0;
+}
+.progress-bar {
+    -fx-control-inner-background: #273747;
+    -fx-accent: #304c69;
+}
