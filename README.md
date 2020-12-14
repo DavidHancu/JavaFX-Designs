@@ -1,6 +1,3 @@
-# JavaFX-Designs
-A repository full of material designs, free to use and customizable. Includes .css and .fxml files for each design.
-
 # JavaFX Designs
 This repository contains material and minimalist designs made with love and care. Almost every design comes with white and dark themes. Every theme contains .fxml and .css files for ease of use.
 
