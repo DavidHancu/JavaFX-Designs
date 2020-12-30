@@ -1,6 +1,10 @@
 # JavaFX Designs
 This repository contains material and minimalist designs made with love and care. Almost every design comes with white and dark themes. Every theme contains .fxml and .css files for ease of use.
 
+## Examples
+1. Splash Screen - Dark Theme
+
+
 ## Requesting a design
 
 If you want to request a design, open an issue and explain what design you would like to be added.
