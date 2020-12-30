@@ -2,7 +2,7 @@
 This repository contains material and minimalist designs made with love and care. Almost every design comes with white and dark themes. Every theme contains .fxml and .css files for ease of use.
 
 ## Examples
-![1. Splash Screen - Dark Theme](https://imgur.com/a/dgyCBet)
+![1. Splash Screen - Dark Theme](https://i.imgur.com/mMpLzD4.png)
 
 ## Requesting a design
 
